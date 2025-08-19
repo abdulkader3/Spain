@@ -26,9 +26,9 @@ const Navbar = () => {
               (+88) 01970713237
             </li>
 
-            <li className='bg-red-500 text-white px-10 py-5 text-[18px] rounded-2xl hover:scale-125 transition-all active:scale-90 cursor-pointer'>
+            <button className='bg-red-500 text-white w-[190px] h-[55px] text-[17px] rounded-md hover:scale-110 transition-all active:scale-90 cursor-pointer'>
               Contact Us
-            </li>
+            </button>
           </ul>
         </div>
       </div>
