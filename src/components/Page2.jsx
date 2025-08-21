@@ -62,7 +62,7 @@ const Page2 = () => {
               </div>
             </div>
           </div>
-          <div className="line flex justify-center my-[90px] ">
+          <div className="line flex justify-center mt-[90px] ">
             {" "}
             <div className="redLine red_line w-[95%] h-[1.1px] bg-red-400 "></div>
           </div>
