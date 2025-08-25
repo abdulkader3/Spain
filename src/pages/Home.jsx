@@ -4,6 +4,8 @@ import Page2 from '../components/Page2'
 import Page3 from '../components/Page3'
 import Page4 from '../components/Page4.jsx'
 import Page5 from '../components/Page5.jsx'
+import Footer from '../components/Footer.jsx'
+
 
 function Home() {
   return (
@@ -14,6 +16,8 @@ function Home() {
       <Page3/>
       <Page4/>
       <Page5/>
+
+      <Footer/>
 
     </div>
     </>
